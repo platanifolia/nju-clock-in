@@ -70,6 +70,8 @@
 
 3. 如若有复杂的定时需求，可自行查阅[cron](https://www.gairuo.com/p/cron-expression-sheet)规则进行相应修改
 
+##### 更新以接续Actions
+21.12.26
 
 ---
 Related to [kottory](https://github.com/kottory/NJU-health-report)
